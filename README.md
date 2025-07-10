@@ -1,2 +1,5 @@
 # MultiTask-ML-Comparison-Car-Cancer-Wage-Credit
 Comparative analysis of classic machine learning algorithms—including KNN, Naive Bayes, SVM, and SVR—across binary classification, multi-class classification, and regression tasks using real-world datasets.
+
+
+This project presents a comprehensive evaluation of several classic machine learning algorithms—including ZeroR, OneR, K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machines (SVM), and Support Vector Regression (SVR)—across a variety of supervised learning tasks. We apply these models to four real-world datasets spanning domains such as car evaluation, brain cancer detection, wage prediction, and credit risk assessment. The study aims to compare model performance on binary classification, multi-class classification, and regression problems using metrics such as accuracy and mean squared error (MSE). Through this analysis, we explore the strengths and weaknesses of each algorithm in different settings, providing practical insights into model selection.
